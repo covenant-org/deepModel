@@ -1,0 +1,30 @@
+# Virtual Environment
+venv/
+*.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files (VS Code example)
+.vscode/
+
+# Secrets / Sensitive Data (if any)
+# *.secrets
+# credentials.json
+
+# Large Data/Video Files (Optional - if you don't want sample.mov in repo)
+*.mov
+*.mp4
+# downloads/
